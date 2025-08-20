@@ -1587,5 +1587,11 @@
   },
   "zxh404.vscode-proto3": {
     "repository": "https://github.com/zxh0/vscode-proto3"
+  },
+  "OrcaTeam.tswagger": {
+    "repository": "https://github.com/orca-team/vscode-tswagger"
+  },
+  "OrcaTeam.freemarker-tipster": {
+    "repository": "https://github.com/orca-team/vscode-freemarker-tipster"
   }
 }
